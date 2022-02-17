@@ -1,0 +1,10 @@
+START
+Input a,b,c
+Read a,b,c
+Check for the highest value among the three numbers
+Print that number first
+Check for the middle number
+Print it as the second number
+Print the least number last
+Output will be from highest to lowest(descending order)
+STOP
