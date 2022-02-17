@@ -1,0 +1,9 @@
+STOP
+Input number
+Read number
+Set sum = 0
+IF the number => 0
+ sum=sum+num
+ELSE 
+ print sum
+STOP
